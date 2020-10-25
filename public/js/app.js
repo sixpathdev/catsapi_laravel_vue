@@ -37550,7 +37550,7 @@ var render = function() {
             "div",
             {
               key: catbreed.id,
-              staticClass: "col-12 col-md-6 col-lg-3 border-none"
+              staticClass: "col-12 col-md-6 col-lg-4 border-none"
             },
             [
               _c("div", { staticClass: "card card-body my-2" }, [
